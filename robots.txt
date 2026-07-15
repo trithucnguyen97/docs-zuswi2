@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-7nx5w9.luizaaraujo.com/sitemap.xml
